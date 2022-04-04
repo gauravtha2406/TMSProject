@@ -1,1 +1,1 @@
-# TMSProject
+# EurekaServer
